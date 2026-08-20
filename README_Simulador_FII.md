@@ -1,8 +1,8 @@
 # Simulador de Investimentos em Fundos Imobiliários (FIIs)
 
-Este projeto consiste em uma ferramenta prática e interativa desenvolvida no Microsoft Excel para simulação de investimentos em Fundos de Investimento Imobiliários (FIIs) [Entendendo o Desafio]. A solução foi projetada para responder a perguntas de negócio cruciais de investidores e ajudar na tomada de decisões informadas. 
+Este projeto consiste em uma ferramenta prática e interativa desenvolvida no Microsoft Excel para simulação de investimentos em Fundos de Investimento Imobiliários (FIIs). A solução foi projetada para responder a perguntas de negócio cruciais de investidores e ajudar na tomada de decisões informadas. 
 
-Este repositório contém a documentação completa e o passo a passo lógico para a construção e entrega do simulador [Entendendo o Desafio].
+Este repositório contém a documentação completa e o passo a passo lógico para a construção e entrega do simulador.
 
 ---
 
@@ -147,19 +147,3 @@ Para dar maior maturidade ao projeto, adicionamos uma seção que sugere onde al
    ```excel
    =percentual_sugerido * aporte
    ```
-
----
-
-## 🚀 Instruções para Entrega do Desafio no GitHub
-Conforme as diretrizes oficiais do desafio, siga as etapas abaixo para realizar a entrega formal do seu projeto [Entendendo o Desafio]:
-
-1. **Crie um Repositório Público no GitHub**:
-   * Nomeie o repositório de forma profissional (ex: `simulador-investimentos-fii-excel`).
-2. **Suba os Arquivos Necessários**:
-   * O arquivo final da sua planilha do Excel editada (`.xlsx`).
-   * Uma pasta chamada `/images` contendo capturas de tela (screenshots) da sua planilha finalizada (opcional, porém recomendado para valorizar o portfólio) [Entendendo o Desafio].
-3. **Crie o arquivo `README.md`**:
-   * Copie este documento formatado em Markdown e cole no arquivo `README.md` na raiz do seu repositório público do GitHub [Entendendo o Desafio].
-4. **Finalize a Entrega**:
-   * Acesse a plataforma do desafio e clique no botão **"Entregar Projeto"** [Entendendo o Desafio].
-   * Envie o link público do seu repositório do GitHub acompanhado de uma breve descrição explicando sua experiência de desenvolvimento [Entendendo o Desafio].
